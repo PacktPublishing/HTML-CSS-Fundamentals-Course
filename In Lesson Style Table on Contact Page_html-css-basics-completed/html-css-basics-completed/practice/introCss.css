@@ -1,0 +1,10 @@
+/* comments in css */
+
+body {
+  background-color:gray;
+  font-family:'Courier New', Courier, monospace;
+}
+
+p {
+  color:green;
+}
